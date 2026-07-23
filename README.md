@@ -10,11 +10,11 @@ The exercises are structured week-by-week and organized into separate branches m
 
 | Week | Key Topics | Branch Link |
 |:---|:---|:---|
-| **Week 1** | Design Patterns, Algorithms, PL/SQL, JUnit 5, Mockito, Logging Framework | [Week-1](https://github.com/oversized-rythm/Cognizant-DN5.0-HandsOn/tree/Week-1) |
-| **Week 2** | Spring Core, XML Bean Config, Spring Data JPA with Hibernate, ORM | [Week-2](https://github.com/oversized-rythm/Cognizant-DN5.0-HandsOn/tree/Week-2) |
-| **Week 3** | Spring Boot RESTful APIs, Spring Security with JWT Authentication | [Week-3](https://github.com/oversized-rythm/Cognizant-DN5.0-HandsOn/tree/Week-3) |
-| **Week 4** | Microservices Architecture with Spring Cloud (Account & Loan Services) | [Week-4](https://github.com/oversized-rythm/Cognizant-DN5.0-HandsOn/tree/Week-4) |
-| **Week 5** | ReactJS Components/Routing/State/Events & Git Version Control Exercises | [Week-5](https://github.com/oversized-rythm/Cognizant-DN5.0-HandsOn/tree/Week-5) |
+| **Week 1** | Design Patterns, Algorithms, PL/SQL, JUnit 5, Mockito, Logging Framework | [Week-1](https://github.com/oversized-rythm/Cognizant-HandsOn/tree/Week-1) |
+| **Week 2** | Spring Core, XML Bean Config, Spring Data JPA with Hibernate, ORM | [Week-2](https://github.com/oversized-rythm/Cognizant-HandsOn/tree/Week-2) |
+| **Week 3** | Spring Boot RESTful APIs, Spring Security with JWT Authentication | [Week-3](https://github.com/oversized-rythm/Cognizant-HandsOn/tree/Week-3) |
+| **Week 4** | Microservices Architecture with Spring Cloud (Account & Loan Services) | [Week-4](https://github.com/oversized-rythm/Cognizant-HandsOn/tree/Week-4) |
+| **Week 5** | ReactJS Components/Routing/State/Events & Git Version Control Exercises | [Week-5](https://github.com/oversized-rythm/Cognizant-HandsOn/tree/Week-5) |
 
 ---
 
