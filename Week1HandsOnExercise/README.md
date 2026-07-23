@@ -42,4 +42,4 @@ Part of the **Digital Nurture Java Full Stack Engineer (FSE)** learning program.
 ## Navigation
 
 - **Repository:** [Digital-Nurture-JavaFSE](https://github.com/oversized-rythm/Cognizant-DN5.0-HandsOn)
-- **Branch:** `Week1MandatoryHandsOn`
+- **Branch:** `Week-1`
